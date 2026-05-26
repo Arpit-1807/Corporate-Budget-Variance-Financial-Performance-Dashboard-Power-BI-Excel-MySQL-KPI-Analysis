@@ -75,3 +75,6 @@ Organizations require accurate financial monitoring to evaluate profitability, i
 | SQL Queries.sql | Financial analysis queries |
 | Excel Model.xlsx | FP & A Modelling(Budget) |
 | CFO Report.pdf | Executive insight report |
+
+## Conclusion
+This project demonstrates practical financial analysis, budget variance modeling, KPI reporting, and executive dashboard development aligned with real-world FP&A business workflows.
